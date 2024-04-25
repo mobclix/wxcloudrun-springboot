@@ -18,7 +18,7 @@ import java.util.List;
  */
 @RestController
 
-public class CounterController {
+public class TestController {
 
   final Logger logger;
 
